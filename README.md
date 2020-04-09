@@ -1,6 +1,6 @@
 # blackjack.js
 
-This is a scripted oop blackjack that runs on node or chrome, to run simply the blackjack.js 
+This is a scripted oop blackjack that runs on node or chrome, to run it simply open the blackjack.js 
 file in this repository, press <kbd>command</kbd> + <kbd>a</kbd> or <kbd>ctrl</kbd> + <kbd>a</kbd>
 copy and paste it on the area below like the example shows, after that just press <kbd>Enter</kbd>
 and <kbd>ctrl</kbd> + <kbd>l</kbd> to clean up the terminal and you can just start playing.
